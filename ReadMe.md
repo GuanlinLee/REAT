@@ -1,4 +1,4 @@
-# Adversarial Training Over Long-Tailed Distribution [[pdf](https://arxiv.org/abs/2307.10205)]
+# Alleviating the Effect of Data Imbalance on Adversarial Training [[pdf](https://arxiv.org/abs/2307.10205)]
 
 Introduction: We explore the challenges and limitations of adversarial training on a long-tailed dataset. It is not to address the long-tail problem itself. Instead, we study how to improve adversarial training when the training data is imbalanced.
 
